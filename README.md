@@ -1,0 +1,2 @@
+# Medicine_recommendation_system
+The Medicine Recommendation System identifies potential diseases based on their symptoms. Utilizing advanced machine learning algorithms and a comprehensive medical database, the system not only predicts the probable diseases but also provides relevant medical recommendations, including descriptions, precautions, medications, recommended diet, and workout suggestions.
